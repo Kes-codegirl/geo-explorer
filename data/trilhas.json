@@ -1,0 +1,16 @@
+{
+  "mitologia": {
+    "iniciante": {
+      "modulos": ["A Maçã da Discórdia", "O Rapto de Helena", "As Alianças Gregas (Aqueus)"],
+      "desafio": "Faça um breve resumo explicando como a decisão de Páris levou ao estopim do conflito."
+    },
+    "intermediario": {
+      "modulos": ["A Ira de Aquiles", "Heitor e a Defesa de Troia", "Intervenções Divinas na Batalha"],
+      "desafio": "Liste e explique o papel de pelo menos dois deuses que apoiavam os gregos e dois que apoiavam os troianos."
+    },
+    "avancado": {
+      "modulos": ["O Cavalo de Madeira", "A Queda de Troia", "A Odisseia (O Retorno)"],
+      "desafio": "Escreva um parágrafo sobre a estratégia de Odisseu e como a vitória grega também trouxe a sua própria ruína."
+    }
+  }
+}
